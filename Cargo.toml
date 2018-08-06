@@ -1,0 +1,8 @@
+[package]
+name = "rust_test"
+version = "0.1.0"
+authors = ["C. \"Whisp\" C. <c.costa.gdev@gmail.com>"]
+
+[dependencies]
+
+rand = "0.5.0"
